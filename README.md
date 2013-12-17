@@ -1,4 +1,4 @@
 ImageWheel.org
 ==============
 
-Home of ImageWheelfree
+Homeworld of ImageWheelfree
