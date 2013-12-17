@@ -1,4 +1,4 @@
 ImageWheel.org
 ==============
 
-Living by Design
+Home of ImageWheelfree
