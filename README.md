@@ -1,4 +1,4 @@
 ImageWheel.org
 ==============
 
-Living by DEsign
+Living by Design
