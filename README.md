@@ -1,4 +1,4 @@
 lightcolourvision.org
 ==============
 
-Homeworld of ImageWheelfree
+A resource for students, teachers and researchers of all ages
